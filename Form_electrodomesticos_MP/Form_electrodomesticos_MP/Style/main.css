@@ -1,0 +1,32 @@
+﻿.tabla {
+    width: 100%;
+}
+
+#treeView_container {
+    width: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+#img_box {
+    width: 414px;
+    padding-left: 40px;
+}
+
+#table_content {
+    margin-top: 30px;
+}
+
+.navega {
+    padding: 10px;
+}
+
+footer {
+    padding: 10px;
+}
